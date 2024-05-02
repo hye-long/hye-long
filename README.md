@@ -18,14 +18,13 @@
 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor="white">
-  <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 </div>
 <br>
 <br>
 
-<div align="center"> <h1> STUDYING </h1> </div>
+<div align="center"> <h1> :memo: STUDYING :memo: </h1> </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor="white">
