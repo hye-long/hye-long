@@ -1,4 +1,4 @@
-- 👋 안녕하세요 프론트엔드 개발자를 꿈꾸고 있는 김혜원입니다. 
+ <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 - 🌱 JAVA SCRIPT, REACT, NEXT.JS, PYTHON,
 -   MACHINE LEARNING 
 
