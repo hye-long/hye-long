@@ -1,4 +1,4 @@
-<div align=center><h1>📚 TECH STACKS </h1></div>
+<div align=center><h1>📚 TECH STACKS 📚 </h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -24,7 +24,7 @@
 <br>
 <br>
 
-<div align="center"> <h1> :memo: STUDYING :memo: </h1> </div>
+<div align="center"> <h1> 📝 STUDYING 📝 </h1> </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor="white">
