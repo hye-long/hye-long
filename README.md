@@ -1,5 +1,4 @@
- <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
- <img src="https://img.shields.io/badge/Java Script-grey?style=for-the-badge&logo=javascript" />
+ <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/Java Script-grey?style=for-the-badge&logo=javascript" />
 - 🌱 JAVA SCRIPT, REACT, NEXT.JS, PYTHON,
 -   MACHINE LEARNING 
 
