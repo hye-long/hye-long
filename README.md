@@ -1,3 +1,6 @@
+<div align=center> 안녕하세요! 프론트엔드를 공부하고 있습니다. 👩‍💻 </div>
+<div align=center>   뭐든 열심히 배우려는 자세로 공부하고 있습니다.   </div>
+
 <div align=center>📚 TECH STACKS 📚 </div>
 <br>
 
