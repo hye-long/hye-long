@@ -24,7 +24,9 @@
 </div>
 <br>
 <br>
-
+<hr>
+<br>
+<br>
 <div align="center"> <h1> 📝 STUDYING 📝 </h1> </div>
 
 <div align="center">
