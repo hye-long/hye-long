@@ -28,6 +28,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor="white">
   <img src="https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=Next.js&logoColor="white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
