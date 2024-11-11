@@ -1,6 +1,4 @@
 
-<div align=center>📚 TECH STACKS 📚 </div>
-<br>
 
 
 <a href="https://github.com/devxb/gitanimals">
@@ -12,6 +10,9 @@
 </a>
 
 <br>
+<br>
+
+<div align=center>📚 TECH STACKS 📚 </div>
 <br>
 
 <div align=center> 
