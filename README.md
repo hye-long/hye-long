@@ -2,13 +2,15 @@
 <div align=center>📚 TECH STACKS 📚 </div>
 <br>
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/hye-long"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/hye-long"
+    width="1000"
+    height="120"
+  />
 </a>
+  
 
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
