@@ -11,8 +11,11 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
-<div align=center>📚 TECH STACKS 📚 </div>
+<h1 align=center> 🌱 SKILLS 🌱  </h1>
+<hr>
 <br>
 
 <div align=center> 
