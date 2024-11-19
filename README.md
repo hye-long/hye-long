@@ -1,9 +1,10 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/hye-long"
-    width="1000"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/hye-long"
+  width="600"
+  height="300"
+/>
+</a>
 </a>
 
 <br>
